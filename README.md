@@ -1,0 +1,2 @@
+# myteste
+testes projeto django
